@@ -16,7 +16,7 @@
 const route = useRoute();
 const { slug } = route.params;
 useSeoMeta({
-  ogImage: `/avatar.jpeg`,
+  ogImage: `/circle-profile.png`,
   twitterCard: "summary_large_image",
   articleAuthor: "Nabil Akmal",
 });
