@@ -49,6 +49,11 @@ const items = [
     icon: "solar:folder-with-files-outline",
   },
   // {
+  //   name: "Community",
+  //   path: "/projects",
+  //   icon: "solar:folder-with-files-outline",
+  // },
+  // {
   //   name: "Articles",
   //   path: "/articles",
   //   icon: "solar:document-add-outline",
@@ -59,10 +64,10 @@ const items = [
   //   path: "/whats-in-my-bag",
   //   icon: "solar:backpack-outline",
   // },
-  // {
-  //   name: "Bookmarks",
-  //   path: "/bookmarks",
-  //   icon: "solar:bookmark-linear",
-  // },
+  {
+    name: "Community",
+    path: "/community",
+    icon: "solar:people-nearby-linear",
+  },
 ];
 </script>
