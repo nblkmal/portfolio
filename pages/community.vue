@@ -17,8 +17,8 @@
             :alt="bookmark.label"
             :ui="{ rounded: 'rounded-md' }"
           /> -->
-          <div class="flex flex-col">
-            <p class="truncate font-semibold text-gray-700 dark:text-gray-200">
+          <div class="flex flex-col text-wrap">
+            <p class="font-semibold text-gray-700 dark:text-gray-200 text-wrap">
               {{ bookmark.label }}
             </p>
             <p class="text-xs font-medium text-gray-500 dark:text-gray-200">
