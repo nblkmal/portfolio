@@ -11,7 +11,7 @@
 
 <script setup>
 const description =
-  "All of my long-form thoughts on programming, user interfaces, product design, and more, collected in chronological order.";
+  "I will be sharing some of my thoughts and experiences here. I'm not a writer, so please bear with me.";
 useSeoMeta({
   title: "Articles | Nabil Akmal",
   description,

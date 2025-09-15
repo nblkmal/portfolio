@@ -1,5 +1,5 @@
 ---
-title: "Easy Beginner Laravel Development Setup"
+title: "Beginner Development Setup + Laravel"
 description: "A comprehensive setup guideline for Laravel development using Laravel Herd and Laravel Daily starter kit"
 published: 2025/01/15
 slug: "easy-beginner-laravel-development-setup"

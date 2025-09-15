@@ -38,7 +38,7 @@
 
 <script setup>
 const description =
-  "Community is a collection of resources and tools that I've found useful and want to share with others.";
+  "I have contributed to the community by speaking at events and sharing my knowledge. This will be a collection list of my contributions for my future reference.";
 useSeoMeta({
   title: "Community | Nabil Akmal",
   description,
