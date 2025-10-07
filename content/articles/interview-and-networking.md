@@ -23,7 +23,9 @@ When someone in the company says, “Hey, I know this person, they’d fit well 
 
 Networking helps you understand company culture and expectations, so when the interview comes, you’re more prepared and aligned.
 
-> “When I was starting out, one of my interviews happened because I regularly shared my coding experiments on LinkedIn. A senior dev saw my posts and referred me. My first impression was already made before I entered the interview.”
+> My first job came from a casual chat with friends during a short getaway. I slipped my name to be one of the candidates for interviews.
+
+> I gained most of my experiences from my network, as in side projects, freelance gigs, and collaborations.
 
 ### 🎙️ __2. The Interview is an Extension of Networking__
 
@@ -39,7 +41,7 @@ Even if you don’t get hired, you’ve built a long-term connection with the co
 
 Many interviewers remember good candidates and reach out later when new roles open up.
 
-> I’ve kept in touch with candidates who didn’t pass initially but showed great attitude and curiosity. Months later, we hired one when a new position opened.
+> For any interview that did not go well, I put it in the my future reference.
 
 ### 🔄 __3. Networking → Interview → Networking Again__
 
