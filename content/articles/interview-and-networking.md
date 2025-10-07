@@ -62,16 +62,16 @@ Each stage feeds the next.
 ## :white_check_mark: __Connect with the Right People__
 > Connecting with the right people isn’t about chasing famous names, it’s about surrounding yourself with people who inspire you to level up
 
-- Quality over quantity, it’s not about collecting contacts; it’s about building meaningful relationships with people who share your interests or values.
-- Start with proximity, connect with seniors, lecturers, alumni, or professionals from your university’s network; they’re most likely to respond.
-- Target relevance, focus on people in roles, companies, or industries you want to learn from.
-- Engage genuinely, comment thoughtfully on their posts, share insights, or ask follow-up questions instead of cold-pitching.
-- Give before you ask, share something useful, offer feedback, or show appreciation for their work before requesting advice or referrals.
-- Be clear in your approach, when you reach out, state who you are, what you’re studying/doing, and why you admire their work.
-- Use multiple channels, LinkedIn, tech meetups, conferences, hackathons, open-source communities.
-- Leverage shared interests, common tech stacks, local events, or mutual contacts make conversations more natural.
-- Follow up, send a short thank-you message after a chat, or update them when you’ve applied their advice.
-- Stay visible, regularly share your learning, side projects, or reflections, people remember those who show consistent growth.
+- __Quality over quantity__, it’s not about collecting contacts; it’s about building meaningful relationships with people who share your interests or values.
+- __Start with proximity__, connect with seniors, lecturers, alumni, or professionals from your university’s network; they’re most likely to respond.
+- __Target relevance__, focus on people in roles, companies, or industries you want to learn from.
+- __Engage genuinely__, comment thoughtfully on their posts, share insights, or ask follow-up questions instead of cold-pitching.
+- __Give before you ask__, share something useful, offer feedback, or show appreciation for their work before requesting advice or referrals.
+- __Be clear in your approach__, when you reach out, state who you are, what you’re studying/doing, and why you admire their work.
+- __Use multiple channels__, LinkedIn, tech meetups, conferences, hackathons, open-source communities.
+- __Leverage shared interests__, common tech stacks, local events, or mutual contacts make conversations more natural.
+- __Follow up__, send a short thank-you message after a chat, or update them when you’ve applied their advice.
+- __Stay visible__, regularly share your learning, side projects, or reflections, people remember those who show consistent growth.
 
 > Connecting in social media is not the same as having a real connection. Go out and meet people in real life when possible. It is a chain of reactions! :link:
 
@@ -80,16 +80,16 @@ Each stage feeds the next.
 ## :chart_with_upwards_trend: __Build Yourself__
 > Before you can connect with the right people or impress in interviews, you need to have something real to show such as skills, attitude, and growth. Your personal brand is built before the opportunity comes.
 
-- Invest in your skills first, people and opportunities gravitate toward those who consistently learn and build things.
-- Show your work publicly, share small projects, experiments, or reflections online; this attracts like-minded people and future interviewers.
-- Be intentional with your learning, focus on topics that align with your career goals and the people you want to connect with.
-- Document your journey, turn what you learn into content (LinkedIn post, GitHub repo, short blog). It makes networking effortless, people find you.
-- Build credibility, not just confidence, it’s easier to network when you have proof of effort or results to talk about.
-- Let curiosity lead, genuine curiosity makes you memorable in both networking and interviews.
-- Adopt a growth mindset, treat rejections, slow progress, or awkward conversations as part of your growth story.
-- Stay consistent, growth and reputation compound; people notice reliability over time.
-- Reflect on feedback, every conversation, rejection, or mentor advice is input for self-improvement.
-- Be the person others want to recommend, respectful, reliable, and continuously improving.
+- __Invest in your skills first__, people and opportunities gravitate toward those who consistently learn and build things.
+- __Show your work publicly__, share small projects, experiments, or reflections online; this attracts like-minded people and future interviewers.
+- __Be intentional with your learning__, focus on topics that align with your career goals and the people you want to connect with.
+- __Document your journey__, turn what you learn into content (LinkedIn post, GitHub repo, short blog). It makes networking effortless, people find you.
+- __Build credibility__, not just confidence, it’s easier to network when you have proof of effort or results to talk about.
+- __Let curiosity lead__, genuine curiosity makes you memorable in both networking and interviews.
+- __Adopt a growth mindset__, treat rejections, slow progress, or awkward conversations as part of your growth story.
+- __Stay consistent__, growth and reputation compound; people notice reliability over time.
+- __Reflect on feedback__, every conversation, rejection, or mentor advice is input for self-improvement.
+- __Be the person others want to recommend__, respectful, reliable, and continuously improving.
 
 > “Don’t wait to be discovered, start building yourself so when opportunity knocks, you’re already ready.”
 ---
