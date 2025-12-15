@@ -1,0 +1,8 @@
+{
+  "name": "NakRun Hub - Running Event",
+  "url": "",
+  "description": "MVP web application that managed Runners, Merch Collection, Event Submission, Event Feedback, Statistic Dashboard. Main feature is powered by QR Merch Collection where it let runners collect their merch with no fraction. 100% smooth. This managed system is heavily used by NakRun internal team",
+  "thumbnail": "/projects/feedbackjar.png",
+  "status": "Done",
+  "opensource": true
+}
