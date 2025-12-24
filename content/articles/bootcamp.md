@@ -9,17 +9,17 @@ slug: "bootcamp-december-2025"
 
 ![Bootcamp Laravel](/articles/bootcamp.png)
 
-## Overview
+# Overview
 
 This project is a **4-week fully online Laravel bootcamp** designed for **absolute beginners and computer science students**. The primary goal was not just to teach Laravel syntax, but to guide learners toward **building, deploying, and explaining a complete web application** from scratch.
 
 The bootcamp was attended by **13 participants**, all of whom successfully deployed a **live, functional Laravel application** by the end of the program.
 
-Rather than focusing on isolated concepts, the bootcamp emphasized **end-to-end understanding** — how frontend, backend logic, database, security, APIs, and deployment come together in a real-world workflow.
+Rather than focusing on isolated concepts, the bootcamp emphasized **end-to-end understanding**, how frontend, backend logic, database, security, APIs, and deployment come together in a real-world workflow.
 
 ---
 
-## Motivation
+# Motivation
 
 Many beginner tutorials stop at local development and CRUD demos, leaving learners unsure how real applications are structured or deployed. This bootcamp was designed to close that gap by:
 
@@ -33,7 +33,7 @@ The end goal was simple: **help beginners ship something real and understand wha
 
 ![Bootcamp Youtube](/articles/bootcamp-class.png)
 
-## My Role
+# My Role
 
 I was responsible for the **entire bootcamp design and execution**, including:
 
@@ -47,7 +47,7 @@ While formal code reviews were not part of the program, I focused on **clear arc
 
 ---
 
-## Technical Stack
+# Technical Stack
 
 The bootcamp focused on a practical, beginner-friendly stack with a strong emphasis on **reducing setup friction**, especially for first-time developers:
 
@@ -59,6 +59,8 @@ The bootcamp focused on a practical, beginner-friendly stack with a strong empha
 * **Version Control:** Git (basic collaboration and merging)
 * **Deployment:** Railway (cloud-based Laravel deployment)
 
+![Laravel Herd](/articles/herd.png)
+
 **Laravel Herd** played an important role in the bootcamp. It significantly simplified the local development setup by removing the need for beginners to manually configure PHP, web servers, or virtual hosts. This allowed students to:
 
 * Start coding immediately without environment frustration
@@ -69,7 +71,7 @@ CI/CD pipelines and advanced Git workflows were intentionally excluded to keep t
 
 ---
 
-## Learning Outcomes
+# Learning Outcomes
 
 By the end of the bootcamp, every participant was able to:
 
@@ -84,11 +86,12 @@ By the end of the bootcamp, every participant was able to:
 
 These outcomes were validated through a **final project evaluation**, where students presented and deployed their applications.
 
+I also compiled all of the bootcamp sessions for the students to revisit the class later on. -and yes it is exclusive for the students!
 ![Bootcamp Youtube](/articles/bootcamp-youtube.png)
 
 ---
 
-## Teaching Approach & Philosophy
+# Teaching Approach & Philosophy
 
 The biggest challenge was finding the right balance between **clarity and correctness**. Many Laravel concepts can become overwhelming for beginners if explained with too much abstraction.
 
@@ -106,29 +109,31 @@ Even at a beginner level, students were exposed to request validation, authentic
 
 ---
 
-## Challenges
-
+# Challenges
+Some challenges that I think can be addressed for my future reference;
 * Explaining complex backend concepts in **simple, non-intimidating terms**
 * Ensuring beginners understood **how parts connect**, not just how to code them
 * Managing time while covering both development and deployment within four weeks
 
-These challenges influenced the decision to simplify certain architectural patterns while preserving correct mental models.
+These challenges influenced my decision to simplify certain architectural patterns while preserving correct mental models.
 
 ---
 
-## Outcomes & Impact
-
+# Outcomes & Impact
+Happily to come until the end of the bootcamp where -
 * **100% of participants** successfully deployed a live Laravel application
 * Students gained confidence in explaining full application flow
 * Learners moved beyond "tutorial-only" knowledge into **real project ownership**
 
 The bootcamp demonstrated that with the right structure and guidance, beginners can meaningfully engage with real-world backend development.
 
+Hopefully this bootcamp has sparked some confidence in the participants to explore more on code!
+
 ---
 
-## Reflection
+# Reflection
 
-This project reinforced my interest in **sharing practical engineering knowledge** — breaking down complex systems into approachable steps without losing their real-world relevance.
+This project reinforced my interest in **sharing practical engineering knowledge**, breaking down complex systems into approachable steps without losing their real-world relevance.
 
 It also strengthened my ability to:
 
@@ -137,6 +142,8 @@ It also strengthened my ability to:
 * Balance engineering correctness with beginner accessibility
 
 Overall, this bootcamp represents my belief that **beginners learn best by shipping**, not just by following tutorials.
+
+And I learned from the best, CEO of Tarsoft.
 
 ---
 
