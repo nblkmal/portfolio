@@ -7,6 +7,8 @@ slug: "bootcamp-december-2025"
 
 ---
 
+![Bootcamp Laravel](/articles/bootcamp.png)
+
 ## Overview
 
 This project is a **4-week fully online Laravel bootcamp** designed for **absolute beginners and computer science students**. The primary goal was not just to teach Laravel syntax, but to guide learners toward **building, deploying, and explaining a complete web application** from scratch.
@@ -28,6 +30,8 @@ Many beginner tutorials stop at local development and CRUD demos, leaving learne
 The end goal was simple: **help beginners ship something real and understand what they built**.
 
 ---
+
+![Bootcamp Youtube](/articles/bootcamp-class.png)
 
 ## My Role
 
@@ -79,6 +83,8 @@ By the end of the bootcamp, every participant was able to:
   * Frontend → Backend → Database → API → Deployment
 
 These outcomes were validated through a **final project evaluation**, where students presented and deployed their applications.
+
+![Bootcamp Youtube](/articles/bootcamp-youtube.png)
 
 ---
 
