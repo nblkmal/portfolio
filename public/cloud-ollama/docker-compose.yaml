@@ -1,0 +1,48 @@
+version: "3.9"
+
+services:
+
+  ollama:
+    image: ollama/ollama
+    container_name: ollama
+    restart: unless-stopped
+    volumes:
+      - ollama-data:/root/.ollama
+    networks:
+      - ai
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - capabilities: [gpu]
+
+  redis:
+    image: redis:7
+    container_name: redis
+    restart: unless-stopped
+    networks:
+      - ai
+
+  litellm:
+    image: docker.litellm.ai/berriai/litellm:main-latest
+    container_name: litellm
+    ports:
+      - "4000:4000"
+    volumes:
+      - ./litellm-config.yaml:/app/config.yaml
+    command: ["--config", "/app/config.yaml", "--port", "4000"]
+    environment:
+      - LITELLM_PORT=4000
+      - LITELLM_DOCKER=true
+      - OPENAI_API_KEY=dummy
+    depends_on:
+      - ollama
+      - redis
+    networks:
+      - ai
+
+volumes:
+  ollama-data:
+
+networks:
+  ai:
