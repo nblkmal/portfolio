@@ -264,7 +264,7 @@ cd cloud-ollama
 Create a configuration file.
 
 ```
-litellm-config.yaml
+./cloud-ollama/litellm-config.yaml
 ```
 
 Example configuration:
@@ -286,8 +286,15 @@ This tells LiteLLM to forward requests to the **internal Ollama service**.
 Create:
 
 ```
-docker-compose.yml
+./cloud-ollama/docker-compose.yml
 ```
+
+You can copy from below example configuration or even better, run below command to download the docker-compose file:
+
+```
+curl -o docker-compose.yml https://nblkmal.vercel.app/cloud-ollama/docker-compose.yaml
+```
+
 
 Example configuration:
 
