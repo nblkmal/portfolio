@@ -1,6 +1,6 @@
 ---
 title: "MVP: NakRun - Running Event Web Application"
-description: "4-week fully online Laravel bootcamp for absolute beginners and CS students, focused on building, securing, and deploying a real web application. I designed the syllabus and materials, guided application architecture, enforced security fundamentals from day one, and helped all participants successfully ship a live Laravel project using modern tooling like Laravel Herd and Railway."
+description: "I built a production-level MVP for a running event in just 2 weeks of development. A lot of challenges, problem solving and learning experience I have been through in this project."
 published: 2025/12/30
 slug: "nakrun-sawah-2025"
 ---
