@@ -1,0 +1,8 @@
+{
+  "name": "CareReta - Digital Service Logbook",
+  "url": "https://carereta.my/",
+  "description": "Mobile-first SaaS that replaces the physical car service book for Malaysian drivers and kereta sewa operators — snap a receipt, get OCR-parsed service records, smart reminders, and duplicate-part alerts that catch workshop upselling. Live in beta with 70+ users and 58+ cars tracked.",
+  "thumbnail": "/projects/carereta.png",
+  "status": "Beta",
+  "opensource": false
+}
